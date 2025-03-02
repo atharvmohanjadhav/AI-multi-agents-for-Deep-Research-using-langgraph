@@ -1,0 +1,11 @@
+langchain 
+langgraph 
+tavily-python
+fastapi 
+uvicorn 
+pinecone-client 
+groq 
+python-dotenv
+streamlit 
+pinecone
+sentence-transformers
